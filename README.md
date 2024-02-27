@@ -1,0 +1,1 @@
+# Pyautogui-Click-Speed-Tester
